@@ -1,0 +1,29 @@
+commit b4e5cc65e7b95e047c5c00dfa66f901343f2eacf
+Author: Jesus Aispuro <dany_aispuro@hotmail.com>
+Date:   Thu Jun 23 11:33:08 2016 -0600
+
+    footer agregado
+
+commit ad07e9a671bf789cd86415f223eb07b2e367de85
+Author: Jesus Aispuro <dany_aispuro@hotmail.com>
+Date:   Thu Jun 23 11:28:47 2016 -0600
+
+    Yo con mi amor
+
+commit 1d84fbfce8390595a0e5615745e184f8f8154ec2
+Author: Jesus Aispuro <dany_aispuro@hotmail.com>
+Date:   Thu Jun 23 11:18:46 2016 -0600
+
+    Se agrago bootstrap
+
+commit 1163c13ef4fb3f93a2481e02a2bd5f0f424129f4
+Author: Jesus Aispuro <dany_aispuro@hotmail.com>
+Date:   Thu Jun 23 11:10:01 2016 -0600
+
+    Encabezado de la pagina
+
+commit 3089bff6ac334a88c869b309cab5ff6de2d538ca
+Author: Jesus Aispuro <dany_aispuro@hotmail.com>
+Date:   Thu Jun 23 11:02:09 2016 -0600
+
+    Estructura base del proyecto
